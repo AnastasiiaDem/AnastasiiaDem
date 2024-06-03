@@ -1,16 +1,26 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 🌟
 
-<!--
-**AnastasiiaDem/AnastasiiaDem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Anastasiia Dementieva**, a passionate Software Engineer with a Bachelor's degree in Computer Science and a Meta Front-End Developer Professional Certificate. With over 3 years of coding experience, I specialize in building full-stack applications and interactive web experiences. My toolkit includes React, Angular, Node.js, JavaScript, TypeScript, HTML/CSS, Bootstrap, Tailwind, MongoDB, Git, and more.
 
-Here are some ideas to get you started:
+What excites me about software development is the thrill of the challenge. I believe there's always a solution, and this inspires me to dive into development with passion and curiosity. I love finding innovative solutions through code, balancing creativity with analytical thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soft Skills
+- 💡 Problem Solver
+- 📚 Quick Learner
+- 🎨 Creative Thinker
+- 🔍 Detail-Oriented
+- 🤝 Team Player
+
+## Interests 🌱
+
+- 🥾 Hiking in nature
+- 🐶 Training my beagle
+- 🧘‍♀️ Meditation
+- 🎨 Painting
+
+## Let's Connect! 🌐
+
+Explore my portfolio at [anastasiiadementieva.vercel.app](https://anastasiiadementieva.vercel.app). I'm always open to new opportunities and collaborations!
+
+- 📧 dementieva.anastasiia@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/anastasiiadementieva)
