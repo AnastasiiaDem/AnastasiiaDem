@@ -4,7 +4,7 @@
 
 ### 👩🏽‍💻 About Me
 
-I transform ideas into interactive web experiences. With a CS degree, Meta certification, and 3+ years of coding passion, I build full-stack applications from scratch. My superpower? Adapting to new tech like a chameleon to a new leaf.
+I transform ideas into interactive web experiences. With a CS degree, Meta certification, and 3+ years of coding passion, I build full-stack applications from scratch. My superpower? Adapting to new tech like a chameleon to a new environment 🍃
 
 ### ✨ The Coding Spark
 
