@@ -1,18 +1,23 @@
-# Welcome to My GitHub Profile 🌟
+# Welcome to my GitHub profile! 🌟
 
-![Greeting GIF](https://github.com/AnastasiiaDem/AnastasiiaDem/blob/main/greeting.gif)
+Hi, I'm Anastasiia, a highly accountable and diligent Software Engineer with a Bachelor's degree in Computer Science and a Meta Front-End Developer Professional Certificate. With over 3 years of coding passion, I have built full-stack applications and interactive web experiences from scratch. Here's a bit more about me:
 
-I'm a passionate Software Engineer with a Bachelor's degree in Computer Science and a Meta Front-End Developer Professional Certificate. With over 3 years of coding experience, I specialize in building full-stack applications and interactive web experiences. My toolkit includes React, Angular, Node.js, JavaScript, TypeScript, HTML/CSS, Bootstrap, Tailwind, MongoDB, Git, and more.
+### What I'm Learning Now 👩🏽‍💻
+- Advanced React Patterns: Diving deeper into hooks, context API, and performance optimization.
+- Cloud Computing with AWS: Exploring various AWS services to enhance my backend skills.
+- Machine Learning Basics: Gaining foundational knowledge in machine learning and its applications.
 
-What excites me about software development is the thrill of the challenge. I believe there's always a solution, and this inspires me to dive into development with passion and curiosity. I love finding innovative solutions through code, balancing creativity with analytical thinking.
+### Tools & Technologies 🛠️
+- Frontend: JavaScript, TypeScript, React, Angular, HTML, CSS (SCSS, SASS), Bootstrap, Tailwind
+- Backend: Node.js, Express.js, MySQL, MongoDB
+- Others: Git/GitHub, Agile, AWS, UX/UI Design, Photoshop, Figma, Illustrator
 
-### Soft Skills
+### Soft Skills 🧠
 💡 Problem Solver  
 📚 Quick Learner  
 ⏰ Time Management  
 👽 Emotional Intelligence  
 🦦 Resilience  
-😌 Conflict Resolution  
 🎨 Creative Thinker  
 🔍 Detail-Oriented  
 🤝 Team Player  
@@ -29,7 +34,7 @@ What excites me about software development is the thrill of the challenge. I bel
 🎨 Painting  
 👩🏽‍🍳 Cooking and experimenting with new recipes  
 
-### Let's Connect! 🌐
+### Reach Me! 🌐
 
 Explore my portfolio at [anastasiiadementieva.vercel.app](https://anastasiiadementieva.vercel.app). I'm always open to new opportunities and collaborations!
 
