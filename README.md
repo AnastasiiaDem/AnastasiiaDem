@@ -1,51 +1,34 @@
-# Hi there! I'm Anastasiia, the Code Chameleon 🦎
+## Hi, I’m Anastasiia 👋 Software Engineer
 
-> *"Programming isn’t about what you know; it’s about what you can figure out."* – **Chris Pine**
+> *“Programming isn’t about what you know; it’s about what you can figure out.”* — **Chris Pine**
 
-### 👩🏽‍💻 About Me
+### 👩‍💻 About Me
 
-I transform ideas into interactive web experiences. With a CS degree, Meta certification, and 3+ years of coding passion, I build full-stack applications from scratch. My superpower? Adapting to new tech like a chameleon to a new environment 🍃
+I’m a **Software Engineer with a Computer Science degree** and hands-on experience building **modern, scalable web applications** from concept to deployment.
 
-### ✨ The Coding Spark
+I specialize in turning complex requirements into **clean, accessible, and performant user interfaces**, and I’m comfortable working across the full stack when needed. I adapt quickly to new technologies and enjoy solving real-world problems through thoughtful code and design.
 
-I thrive on challenges – they're puzzles waiting to be solved with elegant code. I blend creativity with analytical thinking, bringing a unique perspective to problem-solving. Think Da Vinci meets Ada Lovelace, but with a penchant for hiking, meditation, and painting.
+<br>
 
-### 🛠️ My Tech Toolbox
+### 💡 What Drives Me
 
-- **Frontend:** JavaScript, TypeScript, React, Angular, HTML, CSS (SCSS, SASS), Bootstrap, Tailwind
-- **Backend:** Node.js, Express.js, MySQL, MongoDB
-- **Others:** Git/GitHub, Agile, UX/UI Design, Photoshop, Figma, Illustrator
-- **Currently learning:** AI, ML, and Blockchain
+I enjoy working on products that require both **analytical thinking and creativity** — whether that’s improving performance, refining UX, or architecting features that scale. I’m especially motivated by projects where I can take ownership and see measurable impact.
 
-### 📚 Currently Reading
+<br>
 
-- *"Clean Code"* by Robert C. Martin
-- *"Think Again: The Power of Knowing What You Don't Know"* by Adam Grant
-- *"Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"* by James Clear
+### 🛠️ Tech Stack
 
-### ⚡ Fun Facts
+**Frontend:** JavaScript, TypeScript, React, Angular, HTML, CSS (SCSS/SASS), Bootstrap, Tailwind  
+**Backend:** Node.js, Express.js, MongoDB, MySQL  
+**Tools & Practices:** Git/GitHub, RESTful APIs, UX/UI Design, Figma, Photoshop, Illustrator, Agile  
+**Currently Exploring:** AI-powered features, automation, and modern web architecture  
 
-- My beagle is my coding co-pilot (he mostly sleeps) 🐶
-- My ideal workspace involves an ocean 🌊 or mountain view 🏔️
-- I find zen in coding, meditation, painting, and cooking. Experimenting with new recipes is my way of unwinding 🧘🏽‍♀️
+<br>
 
-### 🧠 Soft Skills
+### 🌐 Let’s Connect
 
-- Problem Solver  
-- Quick Learner  
-- Time Management  
-- Emotional Intelligence  
-- Resilience  
-- Creative Thinker  
-- Detail-Oriented  
-- Team Player  
-- Active Listener  
-- Adaptability  
-- Strong Collaboration  
+- **Portfolio:** https://anastasiiadementieva.com  
+- **Email:** dementieva.anastasiia@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/anastasiiadementieva  
 
-### 🤝 Let's Connect!
-
-Explore my portfolio at [anastasiiadementieva.vercel.app](https://anastasiiadementieva.vercel.app). Let's build something awesome together!
-
-✉️ Email: [dementieva.anastasiia@gmail.com](mailto:dementieva.anastasiia@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/anastasiiadementieva](https://www.linkedin.com/in/anastasiiadementieva)
+I’m always open to discussing new opportunities, collaborations, or interesting technical challenges.
